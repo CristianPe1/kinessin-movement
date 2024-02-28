@@ -1,3 +1,0 @@
-D:/Personal/Libros/Academia/Proyectos/Movimiento Browniano/Codigo/Impulsive_Leap_Frog/build/CMakeFiles/Impulsive_Leap_Frog.dir
-D:/Personal/Libros/Academia/Proyectos/Movimiento Browniano/Codigo/Impulsive_Leap_Frog/build/CMakeFiles/ALL_BUILD.dir
-D:/Personal/Libros/Academia/Proyectos/Movimiento Browniano/Codigo/Impulsive_Leap_Frog/build/CMakeFiles/ZERO_CHECK.dir
